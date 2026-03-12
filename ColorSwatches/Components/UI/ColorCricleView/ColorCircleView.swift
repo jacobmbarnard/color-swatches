@@ -1,5 +1,6 @@
 import UIKit
 
+
 // Custom view for the color circle with gradient border
 class ColorCircleView: UIView {
     private var color: UIColor = .black
