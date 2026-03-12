@@ -17,6 +17,7 @@ App demonstrating selection and viewing of colors.
 
 ## Other
 
+- Storyboard
 - Data seeding
 - Hexadecimal to UIColor
 - UIColor to hexadecimal
