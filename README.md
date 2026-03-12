@@ -21,3 +21,4 @@ App demonstrating selection and viewing of colors.
 - Data seeding
 - Hexadecimal to UIColor
 - UIColor to hexadecimal
+- Vertical slicing (organization of code)
